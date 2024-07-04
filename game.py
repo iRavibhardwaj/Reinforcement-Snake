@@ -24,7 +24,7 @@ BLUE2 = (175, 175, 175)
 BLACK = (150,150,150)
 
 BLOCK_SIZE = 40
-SPEED = 500
+SPEED = 100
 
 class SnakeGameAI:
 
